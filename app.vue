@@ -4,6 +4,7 @@
     <TheNavbar />
     <NuxtLayout>
       <NuxtPage />
+    
     </NuxtLayout>
     <TheAlerts />
   </div>
